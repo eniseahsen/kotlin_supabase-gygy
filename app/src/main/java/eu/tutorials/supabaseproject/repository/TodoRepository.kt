@@ -1,4 +1,4 @@
-package eu.tutorials.supabaseproject
+package eu.tutorials.supabaseproject.repository
 
 import eu.tutorials.supabaseproject.di.SupabaseClient
 import eu.tutorials.supabaseproject.model.Todo
